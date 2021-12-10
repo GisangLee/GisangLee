@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 
-<div align=center style="margin-bottom:100px">
+<div align=center>
   <div>
     <h1> ME </h1>
     <h3>I'm a passionate python developer</h3>
