@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 </div>
 
-<div align=center display:flex>
+<div align=center display:flex flex-direction:row>
   <div>
     <h1> ME </h1>
     <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
