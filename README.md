@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-    <h3> ME </h3>
+    <h1> ME </h1>
     <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 </div>
 
