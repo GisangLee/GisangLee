@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+</div>
+
 <div align=center>
   <h1>Skill</h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -26,13 +29,13 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
+  <div>
     <h1> ME </h1>
     <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+  </div>
+  <div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&show_icons=true&theme=radical)
+  <div>
 </div>
 
 
-<div>
-  
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&show_icons=true&theme=radical)
