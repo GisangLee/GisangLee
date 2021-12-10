@@ -17,9 +17,6 @@ Here are some ideas to get you started:
   <h3>Hi~! lets play with programming</h3>
 </div>
 
-<div>
-</div>
-
 <div align=center>
   <h1>Skill</h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -30,14 +27,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 </div>
 
-<div align=center>
+<div align=center display:flex>
   <div>
     <h1> ME </h1>
     <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
   </div>
   <div>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&show_icons=true&theme=radical)
-
   </div>
 </div>
 
