@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <h2>Hi~! lets play with programming</h2>
+<div align=center>
+  <h3>Hi~! lets play with programming</h3>
 </div>
 
 <div align=center>
