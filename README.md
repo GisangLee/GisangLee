@@ -36,12 +36,6 @@ Here are some ideas to get you started:
     <a href="https://velog.io/@masterkorea01" target="_blank"><img width="80px" src="https://img.shields.io/badge/Blog-00A98F?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
     <img height="30px" src="https://img.shields.io/badge/kisang6710@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </div>
-  <div>
-    
-
-  </div>
 </div>
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&theme=dark&show_icons=true)
