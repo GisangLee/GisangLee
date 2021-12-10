@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
+<div align=center margin-bottom="20px">
   <h3>Hi~! lets play with programming</h3>
 </div>
 
