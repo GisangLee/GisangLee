@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <div>
     <h1> ME </h1>
     <h3>I'm a passionate python developer</h3>
-    <a href="https://velog.io/@masterkorea01" target="_blank"><img width="40px" src="https://img.shields.io/badge/Blog-00A98F?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
-    <img height="15px" src="https://img.shields.io/badge/kisang6710@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <a href="https://velog.io/@masterkorea01" target="_blank"><img width="60px" src="https://img.shields.io/badge/Blog-00A98F?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+    <img height="20px" src="https://img.shields.io/badge/kisang6710@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </div>
 </div>
 
