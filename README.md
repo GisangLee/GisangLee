@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center margin-bottom="200px">
+<div align=center>
   <h3>Hi~! lets play with programming</h3>
 </div>
 
-<div align=center>
+<div align=center margin-top="100px">
   <h1>Skill</h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
