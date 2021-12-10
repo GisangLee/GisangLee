@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <h1> ME </h1>
     <h3>I'm a passionate python developer</h3>
     <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kisang6710@gmail.com)](mailto:kisang6710@gmail.com)
   </div>
   <div>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&show_icons=true&theme=radical)
