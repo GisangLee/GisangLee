@@ -35,5 +35,5 @@ Here are some ideas to get you started:
   </div>
   
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee &show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&show_icons=true&theme=radical)
 
