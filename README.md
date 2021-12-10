@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kisang6710@gmail.com)](mailto:kisang6710@gmail.com)
   </div>
   <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&show_icons=true&theme=radical)
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GisangLee)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </div>
 
