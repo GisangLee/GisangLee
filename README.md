@@ -37,7 +37,8 @@ Here are some ideas to get you started:
     <img height="30px" src="https://img.shields.io/badge/kisang6710@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </div>
   <div>
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GisangLee)](https://github.com/anuraghazra/github-readme-stats)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&theme=dark&show_icons=true)
+
   </div>
 </div>
 
