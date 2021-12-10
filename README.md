@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h3>Hi~! lets play with programming</h3>
 </div>
 
-<div height=120px>
+<div height=100%>
 </div>
 
 <div align=center>
