@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-</div>
 
 <div align=center>
   <h1>Skill</h1>
