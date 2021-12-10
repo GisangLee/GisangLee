@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <h3>I'm a passionate python developer</h3>
     <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
     <a href="https://kisang6710@gmail.com>
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://kisang6710@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://kisang6710@gmail.com"/>
     </a>
   </div>
   <div>
