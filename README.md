@@ -17,6 +17,9 @@ Here are some ideas to get you started:
   <h3>Hi~! lets play with programming</h3>
 </div>
 
+<div height=80px>
+</div>
+
 <div align=center>
   <h1>Skill</h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
