@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h3>Hi~! lets play with programming</h3>
 </div>
 
-<div align=center margin-top="100px">
+<div align=center>
   <h1>Skill</h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -37,9 +37,11 @@ Here are some ideas to get you started:
     <img height="30px" src="https://img.shields.io/badge/kisang6710@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </div>
   <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&theme=dark&show_icons=true)
+    
 
   </div>
 </div>
 
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&theme=dark&show_icons=true)
