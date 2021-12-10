@@ -24,7 +24,13 @@ Here are some ideas to get you started:
 
 <div>
 </div>
-  <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+
+<div align=center>
+    <h3> ME </h3>
+    <a href="https://velog.io/@masterkorea01" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98F?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
+</div>
+
+
 <div>
   
 </div>
