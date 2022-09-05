@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee&show_icons=true&theme=radical)
 </p>
