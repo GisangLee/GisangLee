@@ -40,9 +40,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee)](https://github.com/jinsu291/github-readme-stats)</p>
-
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GisangLee&layout=compact&theme=radicul)](https://github.com/metleeha)
+</p>
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee)](https://github.com/jinsu291/github-readme-stats)
