@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Most Used Langs </h3>
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GisangLee)](https://github.com/GisangLee/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GisangLee)](https://github.com/anuraghazra/github-readme-stats)
 </div>
