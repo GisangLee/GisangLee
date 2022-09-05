@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-<p>
+<p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GisangLee&layout=compact&theme=radicul)](https://github.com/metleeha)
 
