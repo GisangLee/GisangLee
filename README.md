@@ -38,7 +38,9 @@ Here are some ideas to get you started:
   <a href="https://www.npmjs.com/~gisanglee"><img src="https://img.shields.io/badge/Npm-C41E25?style=flat-square&logo=Npm&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GisangLee&layout=compact&theme=radicul)](https://github.com/metleeha)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GisangLee)](https://github.com/jinsu291/github-readme-stats)
-</h3>
+
