@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <h4 align="center">DB</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </p>
 <h4 align="center">Third-Party</h4>  
 <p align="center">
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
