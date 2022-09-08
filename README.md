@@ -20,26 +20,28 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
+<h4 align="center">Backend</h4>
 <p align="center">
-  <h4 align="center">Backend</h4>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <br>
-  <h4 align="center">Frontend</h4>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+</p>
+<h4 align="center">Frontend</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <br>
-  <h4 align="center">DB</h4>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-    
-  <h4 align="center">Third-Party</h4>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&
-    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&
+</p>
+<h4 align="center">DB</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+</p>
+<h4 align="center">Third-Party</h4>  
+<p align="center">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </p>
-
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://velog.io/@masterkorea01"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
