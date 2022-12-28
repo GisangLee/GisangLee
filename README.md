@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20GL&fontAlign=65&fontAlignY=40&color=gradient)
 
-<img align="left" width="100" height="100" src="https://www.credly.com/badges/6d0792ba-1f3a-4202-9af3-d141c2db3977/public_url"/>
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/48057905/209806943-24c24720-9b62-429f-9f88-48ec065cc2d3.png"/>
 
 ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/48057905/209806943-24c24720-9b62-429f-9f88-48ec065cc2d3.png)
 
