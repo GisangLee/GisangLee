@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20GL&fontAlign=65&fontAlignY=40&color=gradient)
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d0792ba-1f3a-4202-9af3-d141c2db3977" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
 <h4 align="center">DB</h4>
 <p align="center">
