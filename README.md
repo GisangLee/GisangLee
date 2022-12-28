@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20GL&fontAlign=65&fontAlignY=40&color=gradient)
 
 <p align="center">
-  <img width="150" height="150" src="https://user-images.githubusercontent.com/48057905/209806943-24c24720-9b62-429f-9f88-48ec065cc2d3.png"/>
+  <img width="100" height="100" src="https://user-images.githubusercontent.com/48057905/209806943-24c24720-9b62-429f-9f88-48ec065cc2d3.png"/>
 </p>
 
 
