@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/48057905/209806943-24c24720-9b62-429f-9f88-48ec065cc2d3.png)
 </p>
+
+<div align="center">
+  ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/48057905/209806943-24c24720-9b62-429f-9f88-48ec065cc2d3.png)
+</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <h4 align="center">Backend</h4>
