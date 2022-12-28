@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20GL&fontAlign=65&fontAlignY=40&color=gradient)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d0792ba-1f3a-4202-9af3-d141c2db3977" data-share-badge-host="https://www.credly.com"></div>
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/48057905/209806814-ff23a3fb-a771-4244-b605-5057dae0cab2.png)
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
