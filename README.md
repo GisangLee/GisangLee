@@ -31,6 +31,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 </p>
+<h4 align="center">Infra</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Aws-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</p>
 <h4 align="center">Frontend</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
