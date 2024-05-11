@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img width="100" height="100" src="https://user-images.githubusercontent.com/48057905/209806943-24c24720-9b62-429f-9f88-48ec065cc2d3.png"/>
   <img width="100" height="100" src="https://user-images.githubusercontent.com/48057905/218455085-da285347-f6eb-40fa-b9f7-2506bc204a96.png"/>
   <img width="100" height="100" src="https://github.com/GisangLee/GisangLee/assets/48057905/9c2b08b6-4377-4fcc-aad3-bea50f3921e1"/>
-  <img width="10" height="10" src="https://github.com/GisangLee/GisangLee/assets/48057905/09b43a24-9f01-4081-af51-240d563d6515"/>
+  <img width="100" height="100" src="https://github.com/GisangLee/GisangLee/assets/48057905/09b43a24-9f01-4081-af51-240d563d6515"/>
 />
 </p>
 
