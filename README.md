@@ -1,4 +1,3 @@
-![image](https://github.com/GisangLee/GisangLee/assets/48057905/92f81949-6a88-4207-83f1-eddb96c7bc32)<!--
 **GisangLee/GisangLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,7 +19,6 @@ Here are some ideas to get you started:
   <img width="100" height="100" src="https://user-images.githubusercontent.com/48057905/218455085-da285347-f6eb-40fa-b9f7-2506bc204a96.png"/>
   <img width="100" height="100" src="https://github.com/GisangLee/GisangLee/assets/48057905/9c2b08b6-4377-4fcc-aad3-bea50f3921e1"/>
   <img width="100" height="100" src="https://github.com/GisangLee/GisangLee/assets/48057905/09b43a24-9f01-4081-af51-240d563d6515"/>
-/>
 </p>
 
 
