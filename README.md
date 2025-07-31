@@ -45,6 +45,9 @@
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/ELK-2F5FC4?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/prometheus&grafana-BD4B26?style=flat-square&logo=grafana&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/jenkins-542007?style=flat-square&logo=jenkins&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
