@@ -14,7 +14,7 @@
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <h4 align="center">Language</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
 </p>
