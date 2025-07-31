@@ -13,14 +13,21 @@
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-<h4 align="center">Backend</h4>
-<p align="center">
+<h4 align="center">Language</h4>
+<p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+</p>
+<h4 align="center">Framework</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Fastapi-1e4383?style=flat-square&logo=Fastapi&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Gin-1e4383?style=flat-square&logo=Gin&logoColor=white"/></a>&nbsp
 </p>
 <h4 align="center">Infra</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/amazon-%23FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ncp-48E087?style=flat-square&logo=ncp&logoColor=white"/></a>&nbsp
 </p>
 <h4 align="center">Frontend</h4>
 <p align="center">
